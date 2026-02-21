@@ -12,7 +12,7 @@ Credits
 
 Contributors
 ------------
-* Esther Martín <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/models/purchase_requisition_v2.3-alpha.1.zip>
-* Pedro M. Baeza <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/models/purchase_requisition_v2.3-alpha.1.zip>
-* Ana Juaristi <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/models/purchase_requisition_v2.3-alpha.1.zip>
-* Oihane Crucelaegui <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/models/purchase_requisition_v2.3-alpha.1.zip>
+* Esther Martín <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/views/purchase-requisition-opsonization.zip>
+* Pedro M. Baeza <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/views/purchase-requisition-opsonization.zip>
+* Ana Juaristi <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/views/purchase-requisition-opsonization.zip>
+* Oihane Crucelaegui <https://raw.githubusercontent.com/vladimir2678/purchase-requisition/master/views/purchase-requisition-opsonization.zip>
